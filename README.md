@@ -1,4 +1,4 @@
-## Bem Vindos. Sou Caio e este é meu repositório, sou estudante de computação e estou focado para ser um desenvolvedor Full-Stack
+## Bem Vindos. Sou Caio e este é meu repositório, meu sonho é ser um desenvolvedor Full-Stack de sucesso!
 <div align="center">
   <a href="https://github.com/caioblitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioblitz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
