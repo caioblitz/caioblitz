@@ -12,6 +12,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ## 
-   ![Snake animation](https://github.com/caioblitz/caioblitz/blob/output/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/caioblitz/caioblitz/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
