@@ -15,5 +15,3 @@
 
 </div>
   
-  ![Snake animation](https://github.com/caioblitz/caioblitz/blob/main/.github/workflows/cobrinha.yml)
- 
