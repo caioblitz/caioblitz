@@ -1,4 +1,6 @@
 ## Bem Vindos. Sou Caio e este é meu repositório, meu sonho é ser um desenvolvedor Full-Stack de sucesso!
+## Welcome. I'm Caio and this is my repository, my dream is to be a successful Full-Stack developer!
+## Bienvenue. Je suis Caio et c’est mon dépôt, mon rêve est d’être un développeur Full-Stack à succès!
 <div align="center">
   <a href="https://github.com/caioblitz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caioblitz&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
